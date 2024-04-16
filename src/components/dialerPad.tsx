@@ -39,7 +39,7 @@ export function DialerPad(props: IDialerPadProps) {
   }
 
   const assistedTransfer = (e: any) => {
-    // todo:
+    // todo: start this work
     console.log("assistedTransfer clicked", e.target);
 }
 
